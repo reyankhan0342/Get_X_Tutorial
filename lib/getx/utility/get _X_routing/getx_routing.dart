@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get_x_course/getx/get%20_X_routing/screen_two.dart';
+
 
 class GetXRouting extends StatelessWidget {
   const GetXRouting({super.key});
